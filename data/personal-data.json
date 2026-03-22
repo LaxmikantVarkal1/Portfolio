@@ -148,7 +148,7 @@
         {
             "title": "Resume Builder",
             "description": "React Resume Builder",
-            "longDescription": "A modern, responsive, and privacy-first resume building application built with React, Vite, and Tailwind CSS. Create professional, ATS-friendly resumes purely in your browser and export them directly to PDF—no server required, no data stored."
+            "longDescription": "A modern, responsive, and privacy-first resume building application built with React, Vite, and Tailwind CSS. Create professional, ATS-friendly resumes purely in your browser and export them directly to PDF—no server required, no data stored.",
             "tech": [
                "React", "Tailwind CSS"
             ],
